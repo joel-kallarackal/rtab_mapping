@@ -70,7 +70,7 @@
         <param name="Rtabmap/TimeThr"              type="string" value="0"/>
         <param name="Mem/RehearsalSimilarity"      type="string" value="0.30"/>
         <param name="Reg/Force3DoF"                type="string" value="true"/>
-        <param name="GridGlobal/MinSize"           type="string" value="20"/>
+        <param name="GridGlobal/MinSize"           type="string" value="100"/>
 
     </node>
 </launch>
